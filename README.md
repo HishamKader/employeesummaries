@@ -9,10 +9,9 @@
 * [Credits](#credits)
 
  ## Description: 
- This app allows a manager to input employee information with node.  The information is then rendered unto a html doc which can be viewed.
-
-
- The employee information is stored in a local database.
+ This app allows a manager to input employee information with node.  The information is then rendered unto a html file called `team.html` which is located in 
+ the output folder.
+ The employee information is stored on your local device.
     
  ## Installation:
  
