@@ -3,22 +3,20 @@
 ![AppScreenShot](./assets/images/emplyeeApp.jpg)
  
 # Table of Contents
-* [Description](Description)
+* [Description](#Description)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [License](#license)
 
  ## Description: 
- This app allows a manager to input employee information with node.  The information is then rendered unto a html doc which can be viewed.
-
-
- The employee information is stored in a local database.
+ This app allows a manager to input employee information with node.  The information is then rendered unto a html file called `team.html` which is located in 
+ the output folder.
+ The employee information is stored on your local device.
     
  ## Installation:
  
- 1. This app requires JS Node to work.  Once files are downloaded open up the terminal at the file location of the 'index.js' file.
- 1. Use the command 'node index.js' to start the app.
+ 1. This app requires JS Node to work.  Once files are downloaded make an `npm install`, then open up the terminal at the file location of the `app.js` file.
+ 1. Use the command `node app` to start the app.
  
  ## Usage
  
