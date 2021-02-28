@@ -1,0 +1,26 @@
+{
+  "name": "rut-hw14-employeesummaries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HishamKader/rut-hw14-employeesummaries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HishamKader/rut-hw14-employeesummaries/issues"
+  },
+  "homepage": "https://github.com/HishamKader/rut-hw14-employeesummaries#readme"
+}
