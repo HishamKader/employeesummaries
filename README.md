@@ -15,7 +15,7 @@
     
  ## Installation:
  
- 1. This app requires JS Node to work.  Once files are downloaded make an `npm install`, then open up the terminal at the file location of the 'app.js' file.
+ 1. This app requires JS Node to work.  Once files are downloaded make an `npm install`, then open up the terminal at the file location of the `app.js` file.
  1. Use the command `node app` to start the app.
  
  ## Usage
